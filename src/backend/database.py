@@ -163,6 +163,17 @@ initial_activities = {
         },
         "max_participants": 16,
         "participants": ["william@mergington.edu", "jacob@mergington.edu"]
+    },
+    "Manga Maniacs": {
+        "description": "Bora mergulhar nas histórias mais dahoras dos personagens mais brabo dos Mangás japoneses! Vem trocar ideia sobre essas HQs sensacionais!",
+        "schedule": "Terças às 19h",
+        "schedule_details": {
+            "days": ["Tuesday"],
+            "start_time": "19:00",
+            "end_time": "20:00"
+        },
+        "max_participants": 15,
+        "participants": []
     }
 }
 
